@@ -1,4 +1,4 @@
-baseURL = "https://martinkies.github.io/lean-site-template/"
+baseURL = "https://eaulm.org"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
@@ -72,7 +72,7 @@ DefaultContentLanguage = "en"
   firstButtonText = "Facebook"
   firstButtonLink = "https://www.facebook.com/groups/1557904807814341/"
   secondButtonText = "Contact"
-  secondButtonLink = "https://martinkies.github.io/lean-site-template/contact/"
+  secondButtonLink = "https://eaulm.org/contact/"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
