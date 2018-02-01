@@ -1,6 +1,6 @@
 baseURL = "eaulm.org/"
 theme = "local-ea-template"
-canonifyURLs = true
+# canonifyURLs = true
 
 # If you are using multiple languages and want a different default,
 # you can change this language code. In this particular case,
